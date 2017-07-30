@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StepByStep", "StepByStep", "{71D1CE0B-53F1-4673-A021-06464AA23708}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Step_1", "StepByStep\Step_1\Step_1.vcxproj", "{CFBDDC26-30E0-4F29-AE87-0446384B4377}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Step_2", "StepByStep\Step_2\Step_2.vcxproj", "{D9C3452D-85A6-4453-930A-BB7897B8578C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFBDDC26-30E0-4F29-AE87-0446384B4377}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CFBDDC26-30E0-4F29-AE87-0446384B4377}.Debug|Win32.Build.0 = Debug|Win32
+		{CFBDDC26-30E0-4F29-AE87-0446384B4377}.Release|Win32.ActiveCfg = Release|Win32
+		{CFBDDC26-30E0-4F29-AE87-0446384B4377}.Release|Win32.Build.0 = Release|Win32
+		{D9C3452D-85A6-4453-930A-BB7897B8578C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D9C3452D-85A6-4453-930A-BB7897B8578C}.Debug|Win32.Build.0 = Debug|Win32
+		{D9C3452D-85A6-4453-930A-BB7897B8578C}.Release|Win32.ActiveCfg = Release|Win32
+		{D9C3452D-85A6-4453-930A-BB7897B8578C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CFBDDC26-30E0-4F29-AE87-0446384B4377} = {71D1CE0B-53F1-4673-A021-06464AA23708}
+		{D9C3452D-85A6-4453-930A-BB7897B8578C} = {71D1CE0B-53F1-4673-A021-06464AA23708}
+	EndGlobalSection
+EndGlobal
